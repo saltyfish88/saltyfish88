@@ -1,3 +1,21 @@
+<head>
+<style>
+  .badge {
+    margin: 0 5px; /* 在徽章之间添加一些间距 */
+  }
+  .gif-container {
+    display: flex; /* 使用Flexbox布局 */
+    justify-content: center; /* 水平居中 */
+    align-items: center; /* 垂直居中 */
+  }
+  .gif-container img {
+    width: 200px; /* 设置图片的宽度，可以根据需要调整 */
+    height: auto; /* 高度自适应保持图片比例 */
+    margin: 0 40px; /* 图片之间的间距 */
+  }
+</style>
+</head>
+<body>
 <img align="right" src="https://count.getloli.com/get/@:saltyfish88?theme=rule34">
 
 <div id="title" align=center>
@@ -14,21 +32,6 @@
 ![](https://img.shields.io/badge/爱好-二次元-red)
 
 </div>
-<style>
-  .badge {
-    margin: 0 5px; /* 在徽章之间添加一些间距 */
-  }
-  .gif-container {
-    display: flex; /* 使用Flexbox布局 */
-    justify-content: center; /* 水平居中 */
-    align-items: center; /* 垂直居中 */
-  }
-  .gif-container img {
-    width: 200px; /* 设置图片的宽度，可以根据需要调整 */
-    height: auto; /* 高度自适应保持图片比例 */
-    margin: 0 40px; /* 图片之间的间距 */
-  }
-</style>
 
 ![背景](image/樱花.jpg)
 
@@ -43,3 +46,4 @@
 </div>
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=saltyfish88.
+</body>
