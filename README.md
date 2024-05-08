@@ -32,6 +32,24 @@
 ![](https://img.shields.io/badge/爱好-二次元-red)
 
 </div>
+<<<<<<< HEAD
+=======
+<style>
+  .badge {
+    margin: 0 5px; /* 在徽章之间添加一些间距 */
+  }
+  .gif-container {
+    display: flex; /* 使用Flexbox布局 */
+    justify-content: center; /* 水平居中 */
+    align-items: center; /* 垂直居中 */
+  }
+  .gif-container img {
+    width: 250px; /* 设置图片的宽度，可以根据需要调整 */
+    height: auto; /* 高度自适应保持图片比例 */
+    margin: 0 500px; /* 图片之间的间距 */
+  }
+</style>
+>>>>>>> 94c738253a0ec079a60a0cc266baebd9cf018dfa
 
 ![背景](image/樱花.jpg)
 
@@ -46,4 +64,7 @@
 </div>
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=saltyfish88.
+<<<<<<< HEAD
 </body>
+=======
+>>>>>>> 94c738253a0ec079a60a0cc266baebd9cf018dfa
