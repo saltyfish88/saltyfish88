@@ -24,9 +24,9 @@
     align-items: center; /* 垂直居中 */
   }
   .gif-container img {
-    width: 200px; /* 设置图片的宽度，可以根据需要调整 */
+    width: 250px; /* 设置图片的宽度，可以根据需要调整 */
     height: auto; /* 高度自适应保持图片比例 */
-    margin: 0 40px; /* 图片之间的间距 */
+    margin: 0 500px; /* 图片之间的间距 */
   }
 </style>
 
